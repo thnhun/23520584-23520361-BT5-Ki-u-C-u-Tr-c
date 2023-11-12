@@ -1,0 +1,3 @@
+﻿  Bai224.cpp
+C:\Users\ASUS\source\repos\23520584-bt5-so2\Bai224\Bai224.cpp(77,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Bai224.vcxproj -> C:\Users\ASUS\source\repos\23520584-bt5-so2\x64\Debug\Bai224.exe

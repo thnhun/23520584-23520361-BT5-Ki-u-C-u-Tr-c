@@ -1,0 +1,5 @@
+﻿  Bai170.cpp
+C:\Users\ASUS\source\repos\23520584-bt5-so2\Bai170\Bai170.cpp(16,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\23520584-bt5-so2\Bai170\Bai170.cpp(17,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\source\repos\23520584-bt5-so2\Bai170\Bai170.cpp(34,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bai170.vcxproj -> C:\Users\ASUS\source\repos\23520584-bt5-so2\x64\Debug\Bai170.exe

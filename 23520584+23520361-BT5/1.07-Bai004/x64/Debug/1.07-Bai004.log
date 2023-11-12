@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (1.07-Bai004.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  1.07-Bai004.cpp
+  1.07-Bai004.vcxproj -> C:\Users\Asus\OneDrive\Tài liệu\GitHub\kieu-cau-truc\UIT_23521582\x64\Debug\Bai004.exe

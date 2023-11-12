@@ -1,0 +1,8 @@
+﻿  Bai172.cpp
+C:\Users\Asus\OneDrive\Tài liệu\GitHub\kieu-cau-truc\UIT_23521582\Bai172\Bai172.cpp(55,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\OneDrive\Tài liệu\GitHub\kieu-cau-truc\UIT_23521582\Bai172\Bai172.cpp(56,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\OneDrive\Tài liệu\GitHub\kieu-cau-truc\UIT_23521582\Bai172\Bai172.cpp(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\OneDrive\Tài liệu\GitHub\kieu-cau-truc\UIT_23521582\Bai172\Bai172.cpp(59,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\OneDrive\Tài liệu\GitHub\kieu-cau-truc\UIT_23521582\Bai172\Bai172.cpp(62,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\OneDrive\Tài liệu\GitHub\kieu-cau-truc\UIT_23521582\Bai172\Bai172.cpp(71,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Bai172.vcxproj -> C:\Users\Asus\OneDrive\Tài liệu\GitHub\kieu-cau-truc\UIT_23521582\x64\Debug\Bai172.exe

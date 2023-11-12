@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (1.07-Bai010.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  1.07-Bai010.cpp
+C:\Users\Asus\OneDrive\Tài liệu\GitHub\kieu-cau-truc\UIT_23521582\1.07-Bai010\1.07-Bai010.cpp(29,6): warning C4101: 'I': unreferenced local variable
+  1.07-Bai010.vcxproj -> C:\Users\Asus\OneDrive\Tài liệu\GitHub\kieu-cau-truc\UIT_23521582\x64\Debug\Bai010.exe

@@ -1,0 +1,5 @@
+﻿  Bai108.cpp
+C:\Users\Asus\source\repos\23521592_BT05\Bai108\Bai108.cpp(59,9): error C3861: 'TimNgay': identifier not found
+C:\Users\Asus\source\repos\23521592_BT05\Bai108\Bai108.cpp(73,9): error C2660: 'TimNgay': function does not take 2 arguments
+C:\Users\Asus\source\repos\23521592_BT05\Bai108\Bai108.cpp(62,6): message : see declaration of 'TimNgay'
+C:\Users\Asus\source\repos\23521592_BT05\Bai108\Bai108.cpp(73,9): message : while trying to match the argument list '(int, int)'
